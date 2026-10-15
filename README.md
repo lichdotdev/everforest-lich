@@ -52,6 +52,14 @@ same move lich makes for its own two.
 | Everforest Dark | `#a7c080` (green) | `#dbbc7f` (yellow) |
 | Everforest Light | `#657301` (green, darkened) | `#8d6500` (yellow, darkened) |
 
+## Syntax highlighting
+
+Each variant carries a `syntax` section that colors code in the review, diff and
+file views of `lich native`. The colors are the Medium editor schemes of the
+[Everforest JetBrains plugin](https://github.com/MenWhoRust/everforest-jetbrains)
+(`Everforest_Dark_Medium.xml`, `Everforest_Light_Medium.xml`), each `DEFAULT_*`
+attribute mapped to the highlighting tag it styles.
+
 ## Thanks to
 
 - [omartelo](https://github.com/omartelo) — port author
