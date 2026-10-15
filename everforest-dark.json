@@ -2,6 +2,7 @@
   "id": "everforest-dark",
   "name": "Everforest Dark",
   "scheme": "dark",
+  "pair": "everforest-light",
   "app": {
     "background": "#2d353b",
     "foreground": "#d3c6aa",
