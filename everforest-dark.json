@@ -116,6 +116,7 @@
     },
     "strikethrough": {
       "strikethrough": true
-    }
+    },
+    "standard(typeName)": "#e67e80"
   }
 }
